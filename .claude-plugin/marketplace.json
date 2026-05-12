@@ -3,7 +3,7 @@
   "name": "hotcontext",
   "description": "Deterministic context injection for Claude Code — +tags for domain knowledge",
   "owner": {
-    "name": "0xlarry"
+    "name": "0xLT"
   },
   "plugins": [
     {
@@ -12,7 +12,7 @@
       "version": "0.1.0",
       "source": "./",
       "category": "productivity",
-      "homepage": "https://github.com/0xlarry/hotcontext"
+      "homepage": "https://github.com/0xLT/hotcontext"
     }
   ]
 }

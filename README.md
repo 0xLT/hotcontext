@@ -32,7 +32,7 @@ hotcontext fills the gap: **what Claude knows *right now*, for *this prompt*, be
 
 ```bash
 # Add the hotcontext marketplace
-/plugin marketplace add 0xlarry/hotcontext
+/plugin marketplace add 0xLT/hotcontext
 
 # Install the plugin
 /plugin install hotcontext@hotcontext
